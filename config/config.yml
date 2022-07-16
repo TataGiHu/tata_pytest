@@ -1,0 +1,21 @@
+# SETTED_TIME: 20220710
+TIME: 20220708
+
+FTP:
+    FTP_IP: 172.28.141.75
+    FTP_USER: QA
+    FTP_PWD: SophgoRelease2022
+
+SOC:
+    SOC_IP: 172.28.3.221
+    SOC_USER: linaro
+    SOC_PWD: linaro
+    SOC_PORT: 22
+    SOC_PATH: /system
+
+PCIE:
+    PCIE_IP: 172.28.3.197
+    PCIE_USER: sophgo
+    PCIE_PWD: linaro123456
+    PCIE_PORT: 22
+    PCIE_PATH: /home/sophgo
